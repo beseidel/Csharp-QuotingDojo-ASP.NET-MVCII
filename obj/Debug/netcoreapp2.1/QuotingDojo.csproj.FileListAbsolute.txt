@@ -1,0 +1,80 @@
+/Users/Abhi/Desktop/Coding Dojo/QuotingDojo/bin/Debug/netcoreapp2.1/QuotingDojo.deps.json
+/Users/Abhi/Desktop/Coding Dojo/QuotingDojo/bin/Debug/netcoreapp2.1/QuotingDojo.runtimeconfig.json
+/Users/Abhi/Desktop/Coding Dojo/QuotingDojo/bin/Debug/netcoreapp2.1/QuotingDojo.runtimeconfig.dev.json
+/Users/Abhi/Desktop/Coding Dojo/QuotingDojo/bin/Debug/netcoreapp2.1/QuotingDojo.dll
+/Users/Abhi/Desktop/Coding Dojo/QuotingDojo/bin/Debug/netcoreapp2.1/QuotingDojo.pdb
+/Users/Abhi/Desktop/Coding Dojo/QuotingDojo/bin/Debug/netcoreapp2.1/QuotingDojo.Views.dll
+/Users/Abhi/Desktop/Coding Dojo/QuotingDojo/bin/Debug/netcoreapp2.1/QuotingDojo.Views.pdb
+/Users/Abhi/Desktop/Coding Dojo/QuotingDojo/obj/Debug/netcoreapp2.1/QuotingDojo.csprojAssemblyReference.cache
+/Users/Abhi/Desktop/Coding Dojo/QuotingDojo/obj/Debug/netcoreapp2.1/QuotingDojo.csproj.CoreCompileInputs.cache
+/Users/Abhi/Desktop/Coding Dojo/QuotingDojo/obj/Debug/netcoreapp2.1/QuotingDojo.RazorAssemblyInfo.cache
+/Users/Abhi/Desktop/Coding Dojo/QuotingDojo/obj/Debug/netcoreapp2.1/QuotingDojo.RazorAssemblyInfo.cs
+/Users/Abhi/Desktop/Coding Dojo/QuotingDojo/obj/Debug/netcoreapp2.1/QuotingDojo.AssemblyInfoInputs.cache
+/Users/Abhi/Desktop/Coding Dojo/QuotingDojo/obj/Debug/netcoreapp2.1/QuotingDojo.AssemblyInfo.cs
+/Users/Abhi/Desktop/Coding Dojo/QuotingDojo/obj/Debug/netcoreapp2.1/QuotingDojo.TagHelpers.input.cache
+/Users/Abhi/Desktop/Coding Dojo/QuotingDojo/obj/Debug/netcoreapp2.1/QuotingDojo.TagHelpers.output.cache
+/Users/Abhi/Desktop/Coding Dojo/QuotingDojo/obj/Debug/netcoreapp2.1/QuotingDojo.RazorCoreGenerate.cache
+/Users/Abhi/Desktop/Coding Dojo/QuotingDojo/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+/Users/Abhi/Desktop/Coding Dojo/QuotingDojo/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/Abhi/Desktop/Coding Dojo/QuotingDojo/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/Abhi/Desktop/Coding Dojo/QuotingDojo/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/Abhi/Desktop/Coding Dojo/QuotingDojo/obj/Debug/netcoreapp2.1/QuotingDojo.RazorTargetAssemblyInfo.cache
+/Users/Abhi/Desktop/Coding Dojo/QuotingDojo/obj/Debug/netcoreapp2.1/QuotingDojo.RazorTargetAssemblyInfo.cs
+/Users/Abhi/Desktop/Coding Dojo/QuotingDojo/obj/Debug/netcoreapp2.1/QuotingDojo.Views.pdb
+/Users/Abhi/Desktop/Coding Dojo/QuotingDojo/obj/Debug/netcoreapp2.1/QuotingDojo.dll
+/Users/Abhi/Desktop/Coding Dojo/QuotingDojo/obj/Debug/netcoreapp2.1/QuotingDojo.pdb
+/Users/Abhi/Desktop/Coding Dojo/QuotingDojo/obj/Debug/netcoreapp2.1/QuotingDojo.csproj.CopyComplete
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/QuotingDojo/bin/Debug/netcoreapp2.1/QuotingDojo.deps.json
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/QuotingDojo/bin/Debug/netcoreapp2.1/QuotingDojo.runtimeconfig.json
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/QuotingDojo/bin/Debug/netcoreapp2.1/QuotingDojo.runtimeconfig.dev.json
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/QuotingDojo/bin/Debug/netcoreapp2.1/QuotingDojo.dll
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/QuotingDojo/bin/Debug/netcoreapp2.1/QuotingDojo.pdb
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/QuotingDojo/bin/Debug/netcoreapp2.1/QuotingDojo.Views.dll
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/QuotingDojo/bin/Debug/netcoreapp2.1/QuotingDojo.Views.pdb
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/QuotingDojo/obj/Debug/netcoreapp2.1/QuotingDojo.csprojAssemblyReference.cache
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/QuotingDojo/obj/Debug/netcoreapp2.1/QuotingDojo.csproj.CoreCompileInputs.cache
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/QuotingDojo/obj/Debug/netcoreapp2.1/QuotingDojo.RazorAssemblyInfo.cache
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/QuotingDojo/obj/Debug/netcoreapp2.1/QuotingDojo.RazorAssemblyInfo.cs
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/QuotingDojo/obj/Debug/netcoreapp2.1/QuotingDojo.AssemblyInfoInputs.cache
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/QuotingDojo/obj/Debug/netcoreapp2.1/QuotingDojo.AssemblyInfo.cs
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/QuotingDojo/obj/Debug/netcoreapp2.1/QuotingDojo.TagHelpers.input.cache
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/QuotingDojo/obj/Debug/netcoreapp2.1/QuotingDojo.TagHelpers.output.cache
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/QuotingDojo/obj/Debug/netcoreapp2.1/QuotingDojo.RazorCoreGenerate.cache
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/QuotingDojo/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/QuotingDojo/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/QuotingDojo/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/QuotingDojo/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/QuotingDojo/obj/Debug/netcoreapp2.1/QuotingDojo.RazorTargetAssemblyInfo.cache
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/QuotingDojo/obj/Debug/netcoreapp2.1/QuotingDojo.RazorTargetAssemblyInfo.cs
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/QuotingDojo/obj/Debug/netcoreapp2.1/QuotingDojo.Views.pdb
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/QuotingDojo/obj/Debug/netcoreapp2.1/QuotingDojo.dll
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/QuotingDojo/obj/Debug/netcoreapp2.1/QuotingDojo.pdb
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/QuotingDojo/obj/Debug/netcoreapp2.1/QuotingDojo.csproj.CopyComplete
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/QuotingDojo/obj/Debug/netcoreapp2.1/Razor/Views/Home/Result.g.cshtml.cs
+/Users/work/Desktop/C#/mvcII/quotingdojowithdb/bin/Debug/netcoreapp2.1/QuotingDojo.deps.json
+/Users/work/Desktop/C#/mvcII/quotingdojowithdb/bin/Debug/netcoreapp2.1/QuotingDojo.runtimeconfig.json
+/Users/work/Desktop/C#/mvcII/quotingdojowithdb/bin/Debug/netcoreapp2.1/QuotingDojo.runtimeconfig.dev.json
+/Users/work/Desktop/C#/mvcII/quotingdojowithdb/bin/Debug/netcoreapp2.1/QuotingDojo.dll
+/Users/work/Desktop/C#/mvcII/quotingdojowithdb/bin/Debug/netcoreapp2.1/QuotingDojo.pdb
+/Users/work/Desktop/C#/mvcII/quotingdojowithdb/bin/Debug/netcoreapp2.1/QuotingDojo.Views.dll
+/Users/work/Desktop/C#/mvcII/quotingdojowithdb/bin/Debug/netcoreapp2.1/QuotingDojo.Views.pdb
+/Users/work/Desktop/C#/mvcII/quotingdojowithdb/obj/Debug/netcoreapp2.1/QuotingDojo.csprojAssemblyReference.cache
+/Users/work/Desktop/C#/mvcII/quotingdojowithdb/obj/Debug/netcoreapp2.1/QuotingDojo.csproj.CoreCompileInputs.cache
+/Users/work/Desktop/C#/mvcII/quotingdojowithdb/obj/Debug/netcoreapp2.1/QuotingDojo.RazorAssemblyInfo.cache
+/Users/work/Desktop/C#/mvcII/quotingdojowithdb/obj/Debug/netcoreapp2.1/QuotingDojo.RazorAssemblyInfo.cs
+/Users/work/Desktop/C#/mvcII/quotingdojowithdb/obj/Debug/netcoreapp2.1/QuotingDojo.AssemblyInfoInputs.cache
+/Users/work/Desktop/C#/mvcII/quotingdojowithdb/obj/Debug/netcoreapp2.1/QuotingDojo.AssemblyInfo.cs
+/Users/work/Desktop/C#/mvcII/quotingdojowithdb/obj/Debug/netcoreapp2.1/QuotingDojo.TagHelpers.input.cache
+/Users/work/Desktop/C#/mvcII/quotingdojowithdb/obj/Debug/netcoreapp2.1/QuotingDojo.TagHelpers.output.cache
+/Users/work/Desktop/C#/mvcII/quotingdojowithdb/obj/Debug/netcoreapp2.1/QuotingDojo.RazorCoreGenerate.cache
+/Users/work/Desktop/C#/mvcII/quotingdojowithdb/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+/Users/work/Desktop/C#/mvcII/quotingdojowithdb/obj/Debug/netcoreapp2.1/Razor/Views/Home/Result.g.cshtml.cs
+/Users/work/Desktop/C#/mvcII/quotingdojowithdb/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/work/Desktop/C#/mvcII/quotingdojowithdb/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/work/Desktop/C#/mvcII/quotingdojowithdb/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/work/Desktop/C#/mvcII/quotingdojowithdb/obj/Debug/netcoreapp2.1/QuotingDojo.RazorTargetAssemblyInfo.cache
+/Users/work/Desktop/C#/mvcII/quotingdojowithdb/obj/Debug/netcoreapp2.1/QuotingDojo.RazorTargetAssemblyInfo.cs
+/Users/work/Desktop/C#/mvcII/quotingdojowithdb/obj/Debug/netcoreapp2.1/QuotingDojo.Views.pdb
+/Users/work/Desktop/C#/mvcII/quotingdojowithdb/obj/Debug/netcoreapp2.1/QuotingDojo.dll
+/Users/work/Desktop/C#/mvcII/quotingdojowithdb/obj/Debug/netcoreapp2.1/QuotingDojo.pdb
+/Users/work/Desktop/C#/mvcII/quotingdojowithdb/obj/Debug/netcoreapp2.1/QuotingDojo.csproj.CopyComplete

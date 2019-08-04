@@ -1,0 +1,11 @@
+
+
+<ul>
+
+@{foreach(var user in ViewBag.Quote)
+
+    {<li>@user["Name"] @user["QuoteString"] @user["CreatedAt"]</li>
+}
+
+}
+</ul>
